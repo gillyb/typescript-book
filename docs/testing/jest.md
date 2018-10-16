@@ -62,7 +62,7 @@ Add `package.json`:
 
 ```json
 {
-  "test": "jest"
+  "test": "npx jest"
 }
 ```
 
